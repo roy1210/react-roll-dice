@@ -1,6 +1,6 @@
 # Roll-dice
 
-![React_preview](./ScreenShot.gif)
+![React_preview](./pic-screenshot.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
