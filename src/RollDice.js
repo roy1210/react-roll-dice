@@ -25,8 +25,6 @@ class RollDice extends Component {
     setTimeout(() => {
       this.setState({ rolling: false });
     }, 1000);
-    console.log(newDie1Int);
-    console.log(newDie1);
   }
 
   render() {
