@@ -1,4 +1,4 @@
-# Roll-dice
+# Roll dices
 
 ## Description
 
